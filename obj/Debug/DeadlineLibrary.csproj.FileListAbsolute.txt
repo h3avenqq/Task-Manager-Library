@@ -1,0 +1,5 @@
+D:\Projects\ISA\DeadlineLibrary\bin\Debug\DeadlineLibrary.dll
+D:\Projects\ISA\DeadlineLibrary\bin\Debug\DeadlineLibrary.pdb
+D:\Projects\ISA\DeadlineLibrary\obj\Debug\DeadlineLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\ISA\DeadlineLibrary\obj\Debug\DeadlineLibrary.dll
+D:\Projects\ISA\DeadlineLibrary\obj\Debug\DeadlineLibrary.pdb
